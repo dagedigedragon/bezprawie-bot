@@ -1,0 +1,8 @@
+{
+  "name": "bezprawie-afk-bot",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mineflayer": "^4.22.0"
+  }
+}
